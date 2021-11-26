@@ -12,3 +12,6 @@
   </td>
   </tr>
 </table>
+
+<h3>Animation for the simulation (200 particles)</h3>
+<img src="https://github.com/thshek0/Derivation-of-Maxwell-Boltzmann-Distribution/blob/main/figure/simulation.gif" alt="simulation gif"/>
